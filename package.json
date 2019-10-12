@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-sms-adsmedia",
+  "version": "1.0.0",
+  "description": "SMS Gateway via Adsmedia Digital Indonesia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyankastutara/nodejs-sms-adsmedia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyankastutara/nodejs-sms-adsmedia/issues"
+  },
+  "homepage": "https://github.com/dyankastutara/nodejs-sms-adsmedia#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
